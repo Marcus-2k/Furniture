@@ -924,7 +924,7 @@ body {
   }
 
   .wrapper .main .develop .develop__image {
-    background-image: url(../img/develop__two.png) center;
+    background: url(../img/develop__two.png) center;
     position: static;
     opacity: 80%;
     height: 500px;
