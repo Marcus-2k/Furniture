@@ -143,7 +143,7 @@ body {
 }
 
 .wrapper .main .business {
-  background-image: url(/img/header.png);
+  background-image: url(img/header.png);
   width: 100%;
   max-width: 1500px;
   height: 810px;
